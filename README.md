@@ -13,7 +13,8 @@ Ce projet implémente une solution logicielle innovante d'analyse comportemental
 * **Filtre de Stabilisation Algorithmique :** Intégration d'une moyenne glissante (*Moving Average*) sur l'historique des trames pour éliminer les sauts de pourcentages et fluidifier l'interface graphique.
 * **Extraction et Analyse de Données (Logging) :** Journalisation automatisée et transparente des métriques attentionnelles dans un fichier structuré `gaze_data.csv`.
 
----
+---<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/ecc85705-f8b1-4d19-91e9-7490837f5ceb" />
+
 
 ## 📂 Structure du Répertoire
 
